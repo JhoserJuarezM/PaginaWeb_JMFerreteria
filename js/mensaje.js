@@ -1,0 +1,1 @@
+alert("la pagina esta a un 80% por favor presione ACEPTAR para ver los avances" );
